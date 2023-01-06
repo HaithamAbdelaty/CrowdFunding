@@ -1,2 +1,2 @@
 # CrowdFunding
-console based crown funding project in python
+console based crowd funding project in python
